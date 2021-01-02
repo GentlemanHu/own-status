@@ -1,34 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: GentlemanHu # Your GitHub username
+repo: own-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Keep Pie
+    url: https://pie.keepfuture.live
+  - name: Vps Status
+    url: https://status.devfly.top
+  - name: OwnCloud API
+    url: https://api.justfeeling.me
+  - name: RestCloud API
+    url: https://api.crushing.xyz
+  - name: Book Library
+    url: https://book.crushing.xyz
+  - name: OneDrive
+    url: https://pie.crushing.xyz
+  - name: Own VSCode
+    url: https://code.crushing.xyz
+  - name: Own IDE
+    url: https://ide.crushing.xyz
+  - name: Own OS
+    url: https://os.crushing.xyz
+  - name: Portainer
+    url: https://get.crushing.xyz
+  - name: Monit
+    url: https://monit.holyfuck.ml
+  - name: Blog xyz
+    url: https://blog.crushing.xyz
+  - name: Read xyz
+    url: https://read.crushing.xyz
+  - name: WWWW xyz
+    url: https://www.crushing.xyz
+  - name: 
+
+assignees:
+  - Gentleman.Hu
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  publish: true
+  apiBaseUrl: ${{ secrets.GH_PAT }}
+  cname: status.codecho.top
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /own-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Gentleman.Hu
+  introTitle: "完美"
+  introMessage: 一些自用站点服务状态
   navbar:
-    - title: Status
+    - title: Own Site Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
