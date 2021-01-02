@@ -32,7 +32,12 @@ sites:
     url: https://read.crushing.xyz
   - name: WWWW xyz
     url: https://www.crushing.xyz
-  - name: 
+  - name: Note
+    url: https://note.justfeeling.me
+  - name: Cloud60 Code
+    url: https://code.521521.ml
+  - name: Jupyter Lab
+    url: https://note.521521.ml
 
 assignees:
   - Gentleman.Hu
