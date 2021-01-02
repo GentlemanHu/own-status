@@ -40,14 +40,13 @@ assignees:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   publish: true
-  apiBaseUrl: ${{ secrets.GH_PAT }}
   cname: status.codecho.top
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /own-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Gentleman.Hu
   introTitle: "完美"
-  introMessage: 一些自用站点服务状态
+  introMessage: "一些自用站点服务状态"
   navbar:
     - title: Own Site Status
       href: /
