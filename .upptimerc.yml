@@ -39,7 +39,7 @@ sites:
   - name: Jupyter Lab
     url: https://lab.devfly.top
   - name: GD-TG bot
-    url: https://bot.devfly.top
+    url: https://bot.devfly.top/api/gdurl/count
     
 assignees:
   - Gentleman.Hu
