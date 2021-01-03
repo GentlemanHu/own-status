@@ -15,7 +15,7 @@ sites:
   - name: Book Library
     url: https://book.crushing.xyz
   - name: OneDrive
-    url: https://pie.crushing.xyz
+    url: https://pan.devfly.top
   - name: Own VSCode
     url: https://code.crushing.xyz
   - name: Own IDE
@@ -38,7 +38,9 @@ sites:
     url: https://vscode.devfly.top
   - name: Jupyter Lab
     url: https://lab.devfly.top
-
+  - name: GD-TG bot
+    url: https://bot.devfly.top
+    
 assignees:
   - Gentleman.Hu
 
