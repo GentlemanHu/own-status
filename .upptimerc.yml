@@ -9,9 +9,9 @@ sites:
   - name: Vps Status
     url: https://status.devfly.top
   - name: OwnCloud API
-    url: https://api.crushing.xyz/api/v1/test/template
+    url: https://api.justfeeling.me
   - name: RestCloud API
-    url: https://api.crushing.xyz
+    url: https://api.crushing.xyz/api/v1/test/template
   - name: Book Library
     url: https://book.crushing.xyz
   - name: OneDrive
