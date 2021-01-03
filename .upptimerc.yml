@@ -9,7 +9,7 @@ sites:
   - name: Vps Status
     url: https://status.devfly.top
   - name: OwnCloud API
-    url: https://api.justfeeling.me
+    url: https://api.crushing.xyz/api/v1/test/template
   - name: RestCloud API
     url: https://api.crushing.xyz
   - name: Book Library
@@ -25,7 +25,7 @@ sites:
   - name: Portainer
     url: https://get.crushing.xyz
   - name: Monit
-    url: https://monit.holyfuck.ml
+    url: https://monit.devfly.top
   - name: Blog xyz
     url: https://blog.crushing.xyz
   - name: Read xyz
@@ -35,9 +35,9 @@ sites:
   - name: Note
     url: https://note.justfeeling.me
   - name: Cloud60 Code
-    url: https://code.521521.ml
+    url: https://vscode.devfly.top
   - name: Jupyter Lab
-    url: https://note.521521.ml
+    url: https://lab.devfly.top
 
 assignees:
   - Gentleman.Hu
