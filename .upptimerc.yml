@@ -47,7 +47,7 @@ status-website:
   publish: true
   cname: status.codecho.top
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /own-status
+  # baseUrl: /own-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Gentleman.Hu
   introTitle: "完美"
