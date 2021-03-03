@@ -4,19 +4,19 @@
     "url": "https://pie.keepfuture.live",
     "icon": "https://favicons.githubusercontent.com/pie.keepfuture.live",
     "slug": "keep-pie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 874,
-    "timeWeek": 721,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 591,
+    "timeDay": 763,
+    "timeWeek": 712,
     "timeMonth": 661,
-    "timeYear": 590,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2021-03-03": 0
+      "2021-03-03": 6
     }
   },
   {
@@ -156,7 +156,7 @@
     "timeMonth": 283,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2021-03-03": 714,
+      "2021-03-03": 720,
       "2021-03-02": 1440,
       "2021-03-01": 1440,
       "2021-02-28": 1440,
@@ -326,7 +326,7 @@
     "uptime": "88.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.98%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "88.12%",
     "time": 1045,
     "timeDay": 2578,
