@@ -157,7 +157,7 @@
     "timeMonth": 239,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2021-03-26": 843,
+      "2021-03-26": 855,
       "2021-03-25": 1440,
       "2021-03-24": 1440,
       "2021-03-23": 1440,
@@ -347,7 +347,7 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://favicons.githubusercontent.com/www.crushing.xyz",
     "slug": "wwww-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "91.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
