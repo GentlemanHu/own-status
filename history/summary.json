@@ -104,10 +104,10 @@
     "url": "https://pan.devfly.top",
     "icon": "https://favicons.githubusercontent.com/pan.devfly.top",
     "slug": "one-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 1361,
@@ -116,6 +116,7 @@
     "timeMonth": 1950,
     "timeYear": 1361,
     "dailyMinutesDown": {
+      "2021-06-11": 1,
       "2021-03-15": 169,
       "2021-01-20": 62,
       "2021-01-03": 772,
@@ -157,7 +158,7 @@
     "timeMonth": 217,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2021-06-11": 48,
+      "2021-06-11": 478,
       "2021-06-10": 1440,
       "2021-06-09": 1440,
       "2021-06-08": 1440,
@@ -346,9 +347,9 @@
     "url": "https://get.crushing.xyz",
     "icon": "https://favicons.githubusercontent.com/get.crushing.xyz",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -357,7 +358,9 @@
     "timeWeek": 297,
     "timeMonth": 246,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   },
   {
     "name": "Monit",
@@ -426,11 +429,11 @@
     "icon": "https://favicons.githubusercontent.com/www.crushing.xyz",
     "slug": "wwww-xyz",
     "status": "up",
-    "uptime": "91.72%",
+    "uptime": "91.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "80.26%",
-    "uptimeYear": "91.72%",
+    "uptimeYear": "91.73%",
     "time": 1953,
     "timeDay": 2742,
     "timeWeek": 2034,
