@@ -44,29 +44,31 @@
     "url": "https://api.justfeeling.me",
     "icon": "https://favicons.githubusercontent.com/api.justfeeling.me",
     "slug": "own-cloud-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 217,
     "timeWeek": 219,
     "timeMonth": 207,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 5
+    }
   },
   {
     "name": "RestCloud API",
     "url": "https://api.crushing.xyz/api/v1/test/template",
     "icon": "https://favicons.githubusercontent.com/api.crushing.xyz",
     "slug": "rest-cloud-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.52%",
     "time": 334,
     "timeDay": 397,
@@ -74,6 +76,7 @@
     "timeMonth": 320,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2021-06-14": 3,
       "2021-01-03": 583,
       "2021-01-02": 548
     }
@@ -127,18 +130,20 @@
     "url": "https://code.crushing.xyz",
     "icon": "https://favicons.githubusercontent.com/code.crushing.xyz",
     "slug": "own-vs-code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 307,
     "timeDay": 284,
     "timeWeek": 315,
     "timeMonth": 264,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 3
+    }
   },
   {
     "name": "Own IDE",
@@ -157,7 +162,7 @@
     "timeMonth": 207,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2021-06-14": 47,
+      "2021-06-14": 571,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
       "2021-06-11": 1440,
@@ -328,10 +333,10 @@
     "url": "https://os.crushing.xyz",
     "icon": "https://favicons.githubusercontent.com/os.crushing.xyz",
     "slug": "own-os",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 578,
@@ -340,6 +345,7 @@
     "timeMonth": 554,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2021-06-14": 1,
       "2021-01-03": 643,
       "2021-01-02": 548
     }
@@ -349,9 +355,9 @@
     "url": "https://get.crushing.xyz",
     "icon": "https://favicons.githubusercontent.com/get.crushing.xyz",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -360,7 +366,9 @@
     "timeWeek": 290,
     "timeMonth": 243,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 0
+    }
   },
   {
     "name": "Monit",
@@ -429,15 +437,15 @@
     "icon": "https://favicons.githubusercontent.com/www.crushing.xyz",
     "slug": "wwww-xyz",
     "status": "up",
-    "uptime": "91.87%",
+    "uptime": "91.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.26%",
-    "uptimeYear": "91.87%",
+    "uptimeMonth": "80.48%",
+    "uptimeYear": "91.89%",
     "time": 1953,
     "timeDay": 2156,
     "timeWeek": 2031,
-    "timeMonth": 2262,
+    "timeMonth": 2311,
     "timeYear": 1953,
     "dailyMinutesDown": {
       "2021-05-20": 504,
