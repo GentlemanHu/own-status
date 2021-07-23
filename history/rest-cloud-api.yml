@@ -1,7 +1,7 @@
 url: https://api.crushing.xyz/api/v1/test/template
-status: down
-code: 523
-responseTime: 22898
-lastUpdated: 2021-07-23T11:38:33.079Z
+status: up
+code: 200
+responseTime: 313
+lastUpdated: 2021-07-23T11:46:00.957Z
 startTime: Sat Jan 02 2021 15:19:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
