@@ -21,6 +21,12 @@ sites:
     url: https://sd.crushing.xyz
   - name: ChatGPT Next
     url: https://gpt.crushing.xyz
+  - name: DeepL 
+    url: https://deepl.crushing.xyz/translate
+  - name: WeChat Blog
+    url: https://ai.crushing.xyz
+  - name: Home
+    url: https://home.crushing.xyz
     
 assignees:
   - Gentleman.Hu
