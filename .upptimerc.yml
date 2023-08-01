@@ -4,42 +4,23 @@ repo: own-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Keep Pie
-    url: https://pie.keepfuture.live
-  - name: Vps Status
-    url: https://status.devfly.top
-  - name: OwnCloud API
-    url: https://api.justfeeling.me
-  - name: RestCloud API
-    url: https://api.crushing.xyz/api/v1/test/template
   - name: Book Library
-    url: https://book.crushing.xyz
+    url: https://store.crushing.xyz
   - name: OneDrive
-    url: https://pan.devfly.top
-  - name: Own VSCode
-    url: https://code.crushing.xyz
-  - name: Own IDE
-    url: https://ide.crushing.xyz
-  - name: Own OS
-    url: https://os.crushing.xyz
-  - name: Portainer
-    url: https://get.crushing.xyz
-  - name: Monit
-    url: https://monit.devfly.top
   - name: Blog xyz
     url: https://blog.crushing.xyz
   - name: Read xyz
     url: https://read.crushing.xyz
   - name: WWWW xyz
     url: https://www.crushing.xyz
-  - name: Note
-    url: https://note.justfeeling.me
-  - name: Cloud60 Code
-    url: https://vscode.devfly.top
   - name: Jupyter Lab
-    url: https://lab.devfly.top
-  - name: GD-TG bot
-    url: https://bot.devfly.top/api/gdurl/count
+    url: https://jupyter.crushing.xyz
+  - name: AI flowise
+    url: https://aiflow.crushing.xyz
+  - name: Local Stable Diffusion
+    url: https://sd.crushing.xyz
+  - name: ChatGPT Next
+    url: https://gpt.crushing.xyz
     
 assignees:
   - Gentleman.Hu
@@ -47,7 +28,7 @@ assignees:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   publish: true
-  cname: status.codecho.top
+  cname: up.crushing.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /own-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
