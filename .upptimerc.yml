@@ -6,7 +6,8 @@ repo: own-status # Your GitHub repository name
 sites:
   - name: Book Library
     url: https://store.crushing.xyz
-  - name: OneDrive
+  - name: Own Cloud Drivers
+    url: https://yun.crushing.xyz
   - name: Blog xyz
     url: https://blog.crushing.xyz
   - name: Read xyz
