@@ -453,7 +453,7 @@
     "slug": "jupyter-lab",
     "status": "up",
     "uptime": "36.45%",
-    "uptimeDay": "0.15%",
+    "uptimeDay": "0.17%",
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -836,11 +836,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "down",
-    "uptime": "70.65%",
-    "uptimeDay": "70.65%",
-    "uptimeWeek": "70.65%",
-    "uptimeMonth": "70.65%",
-    "uptimeYear": "70.65%",
+    "uptime": "60.16%",
+    "uptimeDay": "60.16%",
+    "uptimeWeek": "60.16%",
+    "uptimeMonth": "60.16%",
+    "uptimeYear": "60.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -905,7 +905,7 @@
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-08-02": 0
+      "2023-08-02": 2
     }
   },
   {
