@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.03%",
+    "uptimeYear": "21.05%",
     "time": 253,
     "timeDay": 749,
     "timeWeek": 2115,
@@ -304,8 +304,7 @@
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
-      "2022-09-03": 1440,
-      "2022-09-02": 1440
+      "2022-09-03": 1440
     }
   },
   {
@@ -420,11 +419,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.crushing.xyz.ico",
     "slug": "jupyter-lab",
     "status": "up",
-    "uptime": "38.45%",
+    "uptime": "38.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "8.38%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "8.40%",
     "time": 784,
     "timeDay": 502,
     "timeWeek": 1064,
@@ -764,8 +763,7 @@
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
-      "2022-09-03": 1440,
-      "2022-09-02": 1440
+      "2022-09-03": 1440
     }
   },
   {
@@ -774,13 +772,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "up",
-    "uptime": "93.90%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "93.08%",
+    "uptime": "93.92%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "93.13%",
     "uptimeMonth": "93.87%",
-    "uptimeYear": "93.90%",
+    "uptimeYear": "93.92%",
     "time": 2747,
-    "timeDay": 4789,
+    "timeDay": 931,
     "timeWeek": 2586,
     "timeMonth": 2747,
     "timeYear": 2747,
@@ -833,7 +831,8 @@
     "timeMonth": 737,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2023-09-01": 2820,
+      "2023-09-02": 116,
+      "2023-09-01": 2880,
       "2023-08-31": 2880,
       "2023-08-30": 2880,
       "2023-08-29": 2880,
@@ -901,7 +900,8 @@
     "timeMonth": 871,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2023-09-01": 2820,
+      "2023-09-02": 116,
+      "2023-09-01": 2880,
       "2023-08-31": 2880,
       "2023-08-30": 2880,
       "2023-08-29": 2880,
