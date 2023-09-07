@@ -1,7 +1,7 @@
 url: https://aiflow.crushing.xyz
-status: up
-code: 200
-responseTime: 1195
-lastUpdated: 2023-09-07T13:36:22.269Z
+status: down
+code: 503
+responseTime: 370
+lastUpdated: 2023-09-07T20:16:05.457Z
 startTime: 2023-08-02T09:00:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
