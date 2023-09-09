@@ -306,18 +306,20 @@
     "url": "https://yun.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/yun.crushing.xyz.ico",
     "slug": "own-cloud-drivers",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 735,
     "timeDay": 729,
     "timeWeek": 672,
     "timeMonth": 749,
     "timeYear": 735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 4
+    }
   },
   {
     "name": "Blog xyz",
@@ -363,10 +365,10 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "97.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.76%",
     "time": 2772,
@@ -375,6 +377,7 @@
     "timeMonth": 3907,
     "timeYear": 3015,
     "dailyMinutesDown": {
+      "2023-09-09": 3,
       "2023-08-12": 25,
       "2023-06-30": 18,
       "2023-03-24": 24,
@@ -767,7 +770,7 @@
     "time": 2932,
     "timeDay": 7685,
     "timeWeek": 3884,
-    "timeMonth": 2615,
+    "timeMonth": 2626,
     "timeYear": 2932,
     "dailyMinutesDown": {
       "2023-09-09": 97,
@@ -825,7 +828,7 @@
     "timeMonth": 725,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-09-09": 1990,
+      "2023-09-09": 2014,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -872,19 +875,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gpt.crushing.xyz.ico",
     "slug": "chat-gpt-next",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 98,
     "timeWeek": 127,
     "timeMonth": 167,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2023-09-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DeepL",
@@ -903,7 +904,7 @@
     "timeMonth": 875,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-09-09": 1990,
+      "2023-09-09": 2014,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -950,18 +951,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.crushing.xyz.ico",
     "slug": "we-chat-blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1683,
     "timeDay": 1187,
     "timeWeek": 1899,
     "timeMonth": 1679,
     "timeYear": 1683,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 12
     }
   },
   {
