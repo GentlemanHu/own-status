@@ -306,10 +306,10 @@
     "url": "https://yun.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/yun.crushing.xyz.ico",
     "slug": "own-cloud-drivers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 990,
@@ -317,7 +317,9 @@
     "timeWeek": 1799,
     "timeMonth": 1071,
     "timeYear": 990,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 2
+    }
   },
   {
     "name": "Blog xyz",
@@ -363,18 +365,19 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "97.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.76%",
-    "time": 2790,
+    "time": 2791,
     "timeDay": 3312,
     "timeWeek": 4492,
     "timeMonth": 3888,
     "timeYear": 3022,
     "dailyMinutesDown": {
+      "2023-09-09": 1,
       "2023-08-12": 25,
       "2023-06-30": 18,
       "2023-03-24": 24,
@@ -825,7 +828,7 @@
     "timeMonth": 721,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-09-09": 2828,
+      "2023-09-09": 2848,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -901,7 +904,7 @@
     "timeMonth": 871,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2023-09-09": 2828,
+      "2023-09-09": 2848,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -948,18 +951,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.crushing.xyz.ico",
     "slug": "we-chat-blog",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1916,
     "timeDay": 3399,
     "timeWeek": 2645,
     "timeMonth": 1966,
     "timeYear": 1916,
     "dailyMinutesDown": {
-      "2023-09-09": 30
+      "2023-09-09": 23
     }
   },
   {
