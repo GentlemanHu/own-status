@@ -759,14 +759,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "up",
-    "uptime": "93.91%",
+    "uptime": "93.92%",
     "uptimeDay": "93.29%",
     "uptimeWeek": "94.01%",
     "uptimeMonth": "93.84%",
-    "uptimeYear": "93.91%",
+    "uptimeYear": "93.92%",
     "time": 2932,
     "timeDay": 7685,
-    "timeWeek": 3808,
+    "timeWeek": 3884,
     "timeMonth": 2615,
     "timeYear": 2932,
     "dailyMinutesDown": {
@@ -825,7 +825,7 @@
     "timeMonth": 725,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-09-09": 1968,
+      "2023-09-09": 1990,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -871,19 +871,19 @@
     "url": "https://gpt.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gpt.crushing.xyz.ico",
     "slug": "chat-gpt-next",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 177,
-    "timeDay": 34,
-    "timeWeek": 122,
+    "timeDay": 98,
+    "timeWeek": 127,
     "timeMonth": 167,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 9
     }
   },
   {
@@ -903,7 +903,7 @@
     "timeMonth": 875,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-09-09": 1968,
+      "2023-09-09": 1990,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -949,9 +949,9 @@
     "url": "https://ai.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ai.crushing.xyz.ico",
     "slug": "we-chat-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -960,7 +960,9 @@
     "timeWeek": 1899,
     "timeMonth": 1679,
     "timeYear": 1683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 0
+    }
   },
   {
     "name": "Home",
