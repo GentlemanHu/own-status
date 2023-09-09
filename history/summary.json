@@ -306,19 +306,19 @@
     "url": "https://yun.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/yun.crushing.xyz.ico",
     "slug": "own-cloud-drivers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 6349,
-    "timeWeek": 1799,
-    "timeMonth": 1071,
-    "timeYear": 990,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1071,
+    "timeDay": 5774,
+    "timeWeek": 2056,
+    "timeMonth": 1170,
+    "timeYear": 1071,
     "dailyMinutesDown": {
-      "2023-09-09": 2
+      "2023-09-09": 8
     }
   },
   {
@@ -367,9 +367,9 @@
     "slug": "wwww-xyz",
     "status": "down",
     "uptime": "97.38%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.76%",
     "time": 2791,
     "timeDay": 3312,
@@ -377,7 +377,7 @@
     "timeMonth": 3888,
     "timeYear": 3022,
     "dailyMinutesDown": {
-      "2023-09-09": 1,
+      "2023-09-09": 9,
       "2023-08-12": 25,
       "2023-06-30": 18,
       "2023-03-24": 24,
@@ -416,7 +416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.crushing.xyz.ico",
     "slug": "jupyter-lab",
     "status": "up",
-    "uptime": "38.95%",
+    "uptime": "38.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -828,7 +828,7 @@
     "timeMonth": 721,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-09-09": 2848,
+      "2023-09-09": 2866,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -904,7 +904,7 @@
     "timeMonth": 871,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2023-09-09": 2848,
+      "2023-09-09": 2866,
       "2023-09-08": 2880,
       "2023-09-07": 2880,
       "2023-09-06": 2880,
@@ -970,9 +970,9 @@
     "url": "https://home.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/home.crushing.xyz.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -981,6 +981,8 @@
     "timeWeek": 650,
     "timeMonth": 875,
     "timeYear": 833,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 0
+    }
   }
 ]
