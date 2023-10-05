@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "30.07%",
+    "uptimeYear": "30.08%",
     "time": 380,
     "timeDay": 690,
     "timeWeek": 867,
@@ -272,8 +272,7 @@
       "2022-10-09": 467,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -395,11 +394,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.crushing.xyz.ico",
     "slug": "jupyter-lab",
     "status": "up",
-    "uptime": "40.47%",
+    "uptime": "40.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.43%",
+    "uptimeYear": "17.44%",
     "time": 746,
     "timeDay": 497,
     "timeWeek": 648,
@@ -706,8 +705,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -716,11 +714,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "up",
-    "uptime": "94.13%",
+    "uptime": "94.14%",
     "uptimeDay": "89.76%",
     "uptimeWeek": "94.99%",
     "uptimeMonth": "90.58%",
-    "uptimeYear": "94.13%",
+    "uptimeYear": "94.14%",
     "time": 3027,
     "timeDay": 3490,
     "timeWeek": 3689,
@@ -785,7 +783,8 @@
     "timeMonth": 682,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-10-04": 2872,
+      "2023-10-05": 122,
+      "2023-10-04": 2880,
       "2023-10-03": 2880,
       "2023-10-02": 2880,
       "2023-10-01": 2880,
@@ -886,7 +885,8 @@
     "timeMonth": 677,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-10-04": 2872,
+      "2023-10-05": 122,
+      "2023-10-04": 2880,
       "2023-10-03": 2880,
       "2023-10-02": 2880,
       "2023-10-01": 2880,
