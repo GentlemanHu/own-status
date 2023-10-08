@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.12%",
+    "uptimeYear": "31.13%",
     "time": 386,
     "timeDay": 902,
     "timeWeek": 947,
@@ -337,18 +337,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "85.04%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "85.36%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "99.48%",
     "time": 2850,
-    "timeDay": 2263,
-    "timeWeek": 2777,
+    "timeDay": 2233,
+    "timeWeek": 2780,
     "timeMonth": 2949,
     "timeYear": 3033,
     "dailyMinutesDown": {
-      "2023-10-08": 47,
+      "2023-10-08": 39,
       "2023-10-07": 134,
       "2023-10-06": 321,
       "2023-10-05": 172,
@@ -378,7 +378,9 @@
       "2023-02-16": 32,
       "2023-02-15": 28,
       "2023-02-14": 37,
-      "2023-02-13": 98
+      "2023-02-13": 98,
+      "2023-02-12": 75,
+      "2023-02-11": 2
     }
   },
   {
@@ -703,12 +705,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "94.64%",
-    "uptimeDay": "98.93%",
+    "status": "down",
+    "uptime": "94.66%",
+    "uptimeDay": "98.91%",
     "uptimeWeek": "95.62%",
     "uptimeMonth": "90.91%",
-    "uptimeYear": "94.64%",
+    "uptimeYear": "94.66%",
     "time": 2979,
     "timeDay": 670,
     "timeWeek": 2997,
@@ -754,8 +756,7 @@
       "2023-08-30": 215,
       "2023-08-29": 148,
       "2023-08-28": 50,
-      "2023-08-27": 22,
-      "2023-08-26": 18
+      "2023-08-27": 22
     }
   },
   {
@@ -775,7 +776,7 @@
     "timeMonth": 691,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-10-08": 2364,
+      "2023-10-08": 2434,
       "2023-10-07": 2880,
       "2023-10-06": 2880,
       "2023-10-05": 2880,
@@ -880,7 +881,7 @@
     "timeMonth": 684,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2023-10-08": 2364,
+      "2023-10-08": 2434,
       "2023-10-07": 2880,
       "2023-10-06": 2880,
       "2023-10-05": 2880,
