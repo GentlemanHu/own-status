@@ -335,17 +335,17 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "85.57%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "86.50%",
+    "uptimeWeek": "85.56%",
     "uptimeMonth": "95.97%",
     "uptimeYear": "99.49%",
     "time": 2895,
-    "timeDay": 2580,
-    "timeWeek": 2795,
-    "timeMonth": 2937,
-    "timeYear": 3024,
+    "timeDay": 2545,
+    "timeWeek": 2773,
+    "timeMonth": 2933,
+    "timeYear": 3022,
     "dailyMinutesDown": {
       "2023-10-09": 151,
       "2023-10-08": 81,
@@ -375,8 +375,7 @@
       "2023-02-22": 24,
       "2023-02-21": 51,
       "2023-02-20": 69,
-      "2023-02-16": 32,
-      "2023-02-15": 28
+      "2023-02-16": 32
     }
   },
   {
@@ -770,7 +769,7 @@
     "timeMonth": 693,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-10-09": 1770,
+      "2023-10-09": 1816,
       "2023-10-08": 2880,
       "2023-10-07": 2880,
       "2023-10-06": 2880,
@@ -876,7 +875,7 @@
     "timeMonth": 686,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2023-10-09": 1770,
+      "2023-10-09": 1816,
       "2023-10-08": 2880,
       "2023-10-07": 2880,
       "2023-10-06": 2880,
