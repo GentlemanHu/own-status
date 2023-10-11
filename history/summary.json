@@ -337,17 +337,17 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "87.66%",
-    "uptimeWeek": "85.28%",
-    "uptimeMonth": "95.29%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "88.25%",
+    "uptimeWeek": "85.52%",
+    "uptimeMonth": "95.31%",
+    "uptimeYear": "99.50%",
     "time": 2797,
-    "timeDay": 2044,
-    "timeWeek": 2555,
+    "timeDay": 2060,
+    "timeWeek": 2546,
     "timeMonth": 2812,
     "timeYear": 2958,
     "dailyMinutesDown": {
-      "2023-10-11": 25,
+      "2023-10-11": 17,
       "2023-10-10": 189,
       "2023-10-09": 234,
       "2023-10-08": 81,
@@ -372,7 +372,7 @@
       "2023-02-27": 80,
       "2023-02-26": 1,
       "2023-02-25": 77,
-      "2023-02-24": 55
+      "2023-02-24": 75
     }
   },
   {
@@ -385,7 +385,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.13%",
+    "uptimeYear": "19.14%",
     "time": 744,
     "timeDay": 634,
     "timeWeek": 683,
@@ -694,12 +694,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "94.72%",
-    "uptimeDay": "86.20%",
+    "status": "down",
+    "uptime": "94.78%",
+    "uptimeDay": "88.34%",
     "uptimeWeek": "93.60%",
-    "uptimeMonth": "90.57%",
-    "uptimeYear": "94.72%",
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "94.78%",
     "time": 2922,
     "timeDay": 1321,
     "timeWeek": 2093,
@@ -745,7 +745,7 @@
       "2023-09-02": 66,
       "2023-09-01": 142,
       "2023-08-31": 60,
-      "2023-08-30": 134
+      "2023-08-30": 68
     }
   },
   {
@@ -765,7 +765,7 @@
     "timeMonth": 694,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-10-11": 590,
+      "2023-10-11": 652,
       "2023-10-10": 2880,
       "2023-10-09": 2880,
       "2023-10-08": 2880,
@@ -873,7 +873,7 @@
     "timeMonth": 687,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2023-10-11": 590,
+      "2023-10-11": 652,
       "2023-10-10": 2880,
       "2023-10-09": 2880,
       "2023-10-08": 2880,
