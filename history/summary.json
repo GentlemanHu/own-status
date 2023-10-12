@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.crushing.xyz.ico",
     "slug": "book-library",
     "status": "up",
-    "uptime": "54.69%",
+    "uptime": "54.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -342,8 +342,8 @@
     "uptimeMonth": "94.91%",
     "uptimeYear": "99.54%",
     "time": 2839,
-    "timeDay": 2456,
-    "timeWeek": 2486,
+    "timeDay": 2490,
+    "timeWeek": 2474,
     "timeMonth": 2779,
     "timeYear": 2932,
     "dailyMinutesDown": {
@@ -380,7 +380,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.47%",
+    "uptimeYear": "19.49%",
     "time": 744,
     "timeDay": 771,
     "timeWeek": 722,
@@ -688,12 +688,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "94.85%",
-    "uptimeDay": "98.64%",
+    "status": "down",
+    "uptime": "94.92%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "93.73%",
     "uptimeMonth": "90.60%",
-    "uptimeYear": "94.85%",
+    "uptimeYear": "94.92%",
     "time": 2896,
     "timeDay": 673,
     "timeWeek": 1844,
@@ -738,8 +738,7 @@
       "2023-09-04": 154,
       "2023-09-03": 89,
       "2023-09-02": 66,
-      "2023-09-01": 142,
-      "2023-08-31": 60
+      "2023-09-01": 142
     }
   },
   {
@@ -759,7 +758,7 @@
     "timeMonth": 703,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-10-12": 1310,
+      "2023-10-12": 1462,
       "2023-10-11": 2880,
       "2023-10-10": 2880,
       "2023-10-09": 2880,
@@ -868,7 +867,7 @@
     "timeMonth": 687,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2023-10-12": 1310,
+      "2023-10-12": 1462,
       "2023-10-11": 2880,
       "2023-10-10": 2880,
       "2023-10-09": 2880,
