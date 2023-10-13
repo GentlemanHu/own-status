@@ -335,18 +335,19 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "92.75%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "94.82%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "94.81%",
     "uptimeYear": "99.54%",
-    "time": 2842,
-    "timeDay": 2262,
-    "timeWeek": 2414,
-    "timeMonth": 2770,
-    "timeYear": 2925,
+    "time": 2847,
+    "timeDay": 2507,
+    "timeWeek": 2427,
+    "timeMonth": 2779,
+    "timeYear": 2929,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2023-10-12": 140,
       "2023-10-11": 94,
       "2023-10-10": 189,
@@ -365,7 +366,7 @@
       "2023-03-24": 24,
       "2023-03-14": 17,
       "2023-03-10": 21,
-      "2023-03-09": 66
+      "2023-03-09": 49
     }
   },
   {
@@ -378,7 +379,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.70%",
+    "uptimeYear": "19.71%",
     "time": 744,
     "timeDay": 792,
     "timeWeek": 734,
@@ -686,18 +687,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "up",
-    "uptime": "94.93%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "94.93%",
+    "uptime": "94.91%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "93.23%",
+    "uptimeMonth": "90.53%",
+    "uptimeYear": "94.91%",
     "time": 2910,
     "timeDay": 3120,
     "timeWeek": 2139,
     "timeMonth": 2829,
     "timeYear": 2910,
     "dailyMinutesDown": {
-      "2023-10-13": 78,
+      "2023-10-13": 68,
       "2023-10-12": 68,
       "2023-10-11": 190,
       "2023-10-10": 125,
@@ -736,7 +737,7 @@
       "2023-09-04": 154,
       "2023-09-03": 89,
       "2023-09-02": 66,
-      "2023-09-01": 60
+      "2023-09-01": 86
     }
   },
   {
@@ -756,7 +757,7 @@
     "timeMonth": 703,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-10-13": 794,
+      "2023-10-13": 880,
       "2023-10-12": 2880,
       "2023-10-11": 2880,
       "2023-10-10": 2880,
@@ -866,7 +867,7 @@
     "timeMonth": 687,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2023-10-13": 794,
+      "2023-10-13": 880,
       "2023-10-12": 2880,
       "2023-10-11": 2880,
       "2023-10-10": 2880,
