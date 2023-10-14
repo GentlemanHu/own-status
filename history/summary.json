@@ -337,17 +337,16 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "94.71%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "94.74%",
     "uptimeYear": "99.54%",
     "time": 2859,
-    "timeDay": 3218,
-    "timeWeek": 2441,
+    "timeDay": 2996,
+    "timeWeek": 2434,
     "timeMonth": 2790,
     "timeYear": 2932,
     "dailyMinutesDown": {
-      "2023-10-14": 13,
       "2023-10-13": 35,
       "2023-10-12": 140,
       "2023-10-11": 94,
@@ -366,7 +365,8 @@
       "2023-06-30": 18,
       "2023-03-24": 24,
       "2023-03-14": 17,
-      "2023-03-10": 21
+      "2023-03-10": 21,
+      "2023-03-09": 30
     }
   },
   {
@@ -379,7 +379,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.98%",
+    "uptimeYear": "19.99%",
     "time": 745,
     "timeDay": 777,
     "timeWeek": 738,
@@ -685,12 +685,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "95.07%",
-    "uptimeDay": "95.38%",
+    "status": "down",
+    "uptime": "95.12%",
+    "uptimeDay": "95.35%",
     "uptimeWeek": "92.78%",
     "uptimeMonth": "90.52%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "95.12%",
     "time": 2901,
     "timeDay": 1967,
     "timeWeek": 1925,
@@ -735,7 +735,7 @@
       "2023-09-06": 153,
       "2023-09-05": 29,
       "2023-09-04": 154,
-      "2023-09-03": 89
+      "2023-09-03": 38
     }
   },
   {
@@ -755,7 +755,7 @@
     "timeMonth": 705,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-10-14": 874,
+      "2023-10-14": 998,
       "2023-10-13": 2880,
       "2023-10-12": 2880,
       "2023-10-11": 2880,
@@ -856,7 +856,7 @@
     "slug": "deep-l",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "42.03%",
+    "uptimeDay": "50.75%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
