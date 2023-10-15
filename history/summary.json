@@ -13,7 +13,7 @@
     "time": 399,
     "timeDay": 991,
     "timeWeek": 1017,
-    "timeMonth": 1043,
+    "timeMonth": 1024,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2023-09-06": 15,
@@ -337,17 +337,17 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "83.30%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "83.91%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "94.34%",
     "uptimeYear": "99.53%",
     "time": 2925,
-    "timeDay": 5341,
+    "timeDay": 4891,
     "timeWeek": 2960,
-    "timeMonth": 2988,
+    "timeMonth": 2981,
     "timeYear": 3034,
     "dailyMinutesDown": {
-      "2023-10-15": 196,
+      "2023-10-15": 187,
       "2023-10-14": 44,
       "2023-10-13": 35,
       "2023-10-12": 140,
@@ -361,7 +361,7 @@
       "2023-10-04": 398,
       "2023-10-03": 135,
       "2023-10-02": 229,
-      "2023-10-01": 74
+      "2023-10-01": 90
     }
   },
   {
@@ -374,11 +374,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.34%",
+    "uptimeYear": "20.35%",
     "time": 744,
     "timeDay": 704,
     "timeWeek": 743,
-    "timeMonth": 702,
+    "timeMonth": 705,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2023-08-02": 541,
@@ -679,12 +679,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "91.68%",
+    "status": "down",
+    "uptime": "95.18%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "91.67%",
     "uptimeMonth": "90.26%",
-    "uptimeYear": "95.11%",
+    "uptimeYear": "95.18%",
     "time": 2856,
     "timeDay": 1461,
     "timeWeek": 1887,
@@ -729,7 +729,7 @@
       "2023-09-07": 83,
       "2023-09-06": 153,
       "2023-09-05": 29,
-      "2023-09-04": 154
+      "2023-09-04": 90
     }
   },
   {
@@ -749,7 +749,7 @@
     "timeMonth": 705,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-10-15": 1782,
+      "2023-10-15": 1830,
       "2023-10-14": 2880,
       "2023-10-13": 2880,
       "2023-10-12": 2880,
