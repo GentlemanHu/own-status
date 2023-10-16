@@ -337,17 +337,16 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "91.37%",
-    "uptimeMonth": "94.39%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "91.74%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "99.53%",
     "time": 2957,
     "timeDay": 3482,
-    "timeWeek": 3131,
+    "timeWeek": 3112,
     "timeMonth": 3011,
     "timeYear": 3050,
     "dailyMinutesDown": {
-      "2023-10-16": 8,
       "2023-10-15": 231,
       "2023-10-14": 44,
       "2023-10-13": 35,
@@ -362,7 +361,7 @@
       "2023-10-04": 398,
       "2023-10-03": 135,
       "2023-10-02": 229,
-      "2023-10-01": 17
+      "2023-10-01": 48
     }
   },
   {
@@ -375,7 +374,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.58%",
+    "uptimeYear": "20.59%",
     "time": 743,
     "timeDay": 629,
     "timeWeek": 721,
@@ -679,18 +678,19 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "95.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.33%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "95.17%",
+    "status": "down",
+    "uptime": "95.23%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "95.23%",
     "time": 2827,
     "timeDay": 653,
     "timeWeek": 1790,
-    "timeMonth": 2742,
+    "timeMonth": 2688,
     "timeYear": 2827,
     "dailyMinutesDown": {
+      "2023-10-16": 1,
       "2023-10-15": 47,
       "2023-10-14": 132,
       "2023-10-13": 84,
@@ -729,7 +729,7 @@
       "2023-09-07": 83,
       "2023-09-06": 153,
       "2023-09-05": 29,
-      "2023-09-04": 154
+      "2023-09-04": 90
     }
   },
   {
@@ -749,7 +749,7 @@
     "timeMonth": 698,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-10-16": 1442,
+      "2023-10-16": 1518,
       "2023-10-15": 2880,
       "2023-10-14": 2880,
       "2023-10-13": 2880,
