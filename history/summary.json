@@ -336,18 +336,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "94.48%",
+    "uptime": "99.83%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "99.54%",
     "time": 2998,
-    "timeDay": 3563,
+    "timeDay": 3656,
     "timeWeek": 3421,
     "timeMonth": 3028,
     "timeYear": 3070,
     "dailyMinutesDown": {
-      "2023-10-17": 26,
+      "2023-10-17": 17,
       "2023-10-16": 65,
       "2023-10-15": 231,
       "2023-10-14": 44,
@@ -362,7 +362,7 @@
       "2023-10-05": 172,
       "2023-10-04": 398,
       "2023-10-03": 135,
-      "2023-10-02": 121
+      "2023-10-02": 138
     }
   },
   {
@@ -375,7 +375,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.91%",
+    "uptimeYear": "20.92%",
     "time": 742,
     "timeDay": 651,
     "timeWeek": 708,
@@ -678,12 +678,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "95.27%",
-    "uptimeDay": "90.35%",
+    "status": "down",
+    "uptime": "95.29%",
+    "uptimeDay": "90.32%",
     "uptimeWeek": "93.25%",
     "uptimeMonth": "90.22%",
-    "uptimeYear": "95.27%",
+    "uptimeYear": "95.29%",
     "time": 2839,
     "timeDay": 2084,
     "timeWeek": 2000,
@@ -728,7 +728,7 @@
       "2023-09-10": 110,
       "2023-09-09": 97,
       "2023-09-07": 83,
-      "2023-09-06": 153
+      "2023-09-06": 134
     }
   },
   {
@@ -748,7 +748,7 @@
     "timeMonth": 694,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-10-17": 2022,
+      "2023-10-17": 2072,
       "2023-10-16": 2880,
       "2023-10-15": 2880,
       "2023-10-14": 2880,
@@ -853,7 +853,7 @@
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.40%",
+    "uptimeWeek": "17.90%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 761,
