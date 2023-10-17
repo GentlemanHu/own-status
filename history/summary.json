@@ -337,17 +337,17 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "93.69%",
-    "uptimeMonth": "94.48%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "99.54%",
     "time": 3003,
-    "timeDay": 3820,
-    "timeWeek": 3442,
+    "timeDay": 3897,
+    "timeWeek": 3477,
     "timeMonth": 3031,
     "timeYear": 3071,
     "dailyMinutesDown": {
-      "2023-10-17": 29,
+      "2023-10-17": 17,
       "2023-10-16": 65,
       "2023-10-15": 231,
       "2023-10-14": 44,
@@ -362,7 +362,7 @@
       "2023-10-05": 172,
       "2023-10-04": 398,
       "2023-10-03": 135,
-      "2023-10-02": 121
+      "2023-10-02": 138
     }
   },
   {
@@ -375,7 +375,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.94%",
+    "uptimeYear": "20.95%",
     "time": 742,
     "timeDay": 651,
     "timeWeek": 708,
@@ -678,12 +678,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "95.28%",
-    "uptimeDay": "90.35%",
+    "status": "down",
+    "uptime": "95.30%",
+    "uptimeDay": "90.32%",
     "uptimeWeek": "93.25%",
     "uptimeMonth": "90.22%",
-    "uptimeYear": "95.28%",
+    "uptimeYear": "95.30%",
     "time": 2835,
     "timeDay": 2157,
     "timeWeek": 2012,
@@ -728,7 +728,7 @@
       "2023-09-10": 110,
       "2023-09-09": 97,
       "2023-09-07": 83,
-      "2023-09-06": 153
+      "2023-09-06": 134
     }
   },
   {
@@ -748,7 +748,7 @@
     "timeMonth": 694,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-10-17": 2312,
+      "2023-10-17": 2436,
       "2023-10-16": 2880,
       "2023-10-15": 2880,
       "2023-10-14": 2880,
@@ -853,7 +853,7 @@
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "20.28%",
+    "uptimeWeek": "21.51%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 761,
