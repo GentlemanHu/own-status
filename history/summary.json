@@ -336,18 +336,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.83%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "99.53%",
     "time": 2988,
     "timeDay": 3730,
-    "timeWeek": 3355,
+    "timeWeek": 3368,
     "timeMonth": 3016,
     "timeYear": 3063,
     "dailyMinutesDown": {
-      "2023-10-17": 9,
       "2023-10-16": 65,
       "2023-10-15": 231,
       "2023-10-14": 44,
@@ -362,7 +361,7 @@
       "2023-10-05": 172,
       "2023-10-04": 398,
       "2023-10-03": 135,
-      "2023-10-02": 138
+      "2023-10-02": 178
     }
   },
   {
@@ -678,12 +677,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "95.26%",
-    "uptimeDay": "92.08%",
+    "status": "down",
+    "uptime": "95.29%",
+    "uptimeDay": "92.05%",
     "uptimeWeek": "93.70%",
     "uptimeMonth": "90.15%",
-    "uptimeYear": "95.26%",
+    "uptimeYear": "95.29%",
     "time": 2856,
     "timeDay": 4972,
     "timeWeek": 2100,
@@ -728,8 +727,7 @@
       "2023-09-10": 110,
       "2023-09-09": 97,
       "2023-09-07": 83,
-      "2023-09-06": 153,
-      "2023-09-05": 29
+      "2023-09-06": 153
     }
   },
   {
@@ -749,7 +747,7 @@
     "timeMonth": 694,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-10-17": 1042,
+      "2023-10-17": 1112,
       "2023-10-16": 2880,
       "2023-10-15": 2880,
       "2023-10-14": 2880,
@@ -854,7 +852,7 @@
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "7.68%",
+    "uptimeWeek": "8.37%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 761,
