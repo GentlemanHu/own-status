@@ -337,17 +337,17 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "89.51%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "94.51%",
+    "uptimeDay": "90.12%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.54%",
     "time": 3252,
-    "timeDay": 8824,
-    "timeWeek": 5252,
+    "timeDay": 9300,
+    "timeWeek": 5267,
     "timeMonth": 3534,
     "timeYear": 3379,
     "dailyMinutesDown": {
-      "2023-10-21": 151,
+      "2023-10-21": 142,
       "2023-10-20": 56,
       "2023-10-19": 137,
       "2023-10-18": 82,
@@ -364,7 +364,7 @@
       "2023-10-07": 134,
       "2023-10-06": 321,
       "2023-10-05": 172,
-      "2023-10-04": 221
+      "2023-10-04": 243
     }
   },
   {
@@ -373,11 +373,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.crushing.xyz.ico",
     "slug": "jupyter-lab",
     "status": "up",
-    "uptime": "41.46%",
+    "uptime": "41.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.08%",
+    "uptimeYear": "22.10%",
     "time": 740,
     "timeDay": 996,
     "timeWeek": 684,
@@ -667,8 +667,7 @@
       "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
-      "2022-10-23": 1440,
-      "2022-10-22": 1440
+      "2022-10-23": 1440
     }
   },
   {
@@ -678,9 +677,9 @@
     "slug": "ai-flowise",
     "status": "up",
     "uptime": "95.70%",
-    "uptimeDay": "92.64%",
+    "uptimeDay": "93.22%",
     "uptimeWeek": "93.93%",
-    "uptimeMonth": "93.34%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "95.70%",
     "time": 2820,
     "timeDay": 3207,
@@ -745,7 +744,8 @@
     "timeMonth": 685,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2023-10-21": 2830,
+      "2023-10-22": 132,
+      "2023-10-21": 2880,
       "2023-10-20": 2880,
       "2023-10-19": 2880,
       "2023-10-18": 2880,
