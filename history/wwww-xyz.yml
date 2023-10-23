@@ -1,7 +1,7 @@
 url: https://www.crushing.xyz
-status: up
-code: 200
-responseTime: 5657
-lastUpdated: 2023-10-23T18:29:26.673Z
+status: down
+code: 502
+responseTime: 2000
+lastUpdated: 2023-10-23T19:08:23.137Z
 startTime: 2021-01-02T15:20:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
