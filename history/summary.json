@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.crushing.xyz.ico",
     "slug": "book-library",
     "status": "up",
-    "uptime": "55.19%",
+    "uptime": "55.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -337,17 +337,17 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "92.61%",
-    "uptimeWeek": "93.00%",
-    "uptimeMonth": "94.51%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "93.23%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.54%",
     "time": 3465,
     "timeDay": 5621,
-    "timeWeek": 6207,
+    "timeWeek": 6228,
     "timeMonth": 3795,
     "timeYear": 3558,
     "dailyMinutesDown": {
-      "2023-10-23": 107,
+      "2023-10-23": 98,
       "2023-10-22": 148,
       "2023-10-21": 142,
       "2023-10-20": 56,
@@ -365,7 +365,7 @@
       "2023-10-08": 81,
       "2023-10-07": 134,
       "2023-10-06": 321,
-      "2023-10-05": 148
+      "2023-10-05": 172
     }
   },
   {
@@ -378,7 +378,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.58%",
+    "uptimeYear": "22.59%",
     "time": 738,
     "timeDay": 539,
     "timeWeek": 671,
@@ -675,12 +675,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "95.75%",
-    "uptimeDay": "89.30%",
+    "status": "down",
+    "uptime": "95.76%",
+    "uptimeDay": "89.28%",
     "uptimeWeek": "92.61%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "95.75%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "95.76%",
     "time": 2852,
     "timeDay": 7423,
     "timeWeek": 2884,
@@ -723,8 +723,7 @@
       "2023-09-19": 261,
       "2023-09-18": 204,
       "2023-09-17": 94,
-      "2023-09-16": 45,
-      "2023-09-14": 19
+      "2023-09-16": 45
     }
   },
   {
@@ -744,7 +743,7 @@
     "timeMonth": 676,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-10-23": 2316,
+      "2023-10-23": 2438,
       "2023-10-22": 2880,
       "2023-10-21": 2880,
       "2023-10-20": 2880,
