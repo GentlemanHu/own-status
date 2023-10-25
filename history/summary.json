@@ -335,17 +335,17 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "90.55%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "94.73%",
-    "uptimeYear": "99.56%",
-    "time": 3514,
-    "timeDay": 4477,
-    "timeWeek": 6342,
-    "timeMonth": 3900,
-    "timeYear": 3636,
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "90.53%",
+    "uptimeWeek": "90.88%",
+    "uptimeMonth": "94.83%",
+    "uptimeYear": "99.57%",
+    "time": 3515,
+    "timeDay": 4519,
+    "timeWeek": 6326,
+    "timeMonth": 3899,
+    "timeYear": 3635,
     "dailyMinutesDown": {
       "2023-10-25": 103,
       "2023-10-24": 164,
@@ -366,7 +366,7 @@
       "2023-10-09": 234,
       "2023-10-08": 81,
       "2023-10-07": 134,
-      "2023-10-06": 62
+      "2023-10-06": 17
     }
   },
   {
@@ -675,18 +675,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "93.79%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "95.89%",
+    "uptime": "95.84%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "94.27%",
+    "uptimeYear": "95.84%",
     "time": 2816,
     "timeDay": 1938,
-    "timeWeek": 2505,
+    "timeWeek": 2538,
     "timeMonth": 2618,
     "timeYear": 2816,
     "dailyMinutesDown": {
-      "2023-10-25": 78,
+      "2023-10-25": 63,
       "2023-10-24": 19,
       "2023-10-23": 154,
       "2023-10-22": 47,
@@ -722,7 +722,8 @@
       "2023-09-21": 1258,
       "2023-09-20": 73,
       "2023-09-19": 261,
-      "2023-09-18": 204
+      "2023-09-18": 204,
+      "2023-09-17": 77
     }
   },
   {
@@ -742,7 +743,7 @@
     "timeMonth": 673,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2023-10-25": 1980,
+      "2023-10-25": 2016,
       "2023-10-24": 2880,
       "2023-10-23": 2880,
       "2023-10-22": 2880,
