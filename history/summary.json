@@ -337,17 +337,17 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "91.05%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "99.57%",
     "time": 3576,
     "timeDay": 5288,
-    "timeWeek": 6351,
+    "timeWeek": 6375,
     "timeMonth": 4020,
     "timeYear": 3728,
     "dailyMinutesDown": {
-      "2023-10-27": 75,
+      "2023-10-27": 66,
       "2023-10-26": 49,
       "2023-10-25": 138,
       "2023-10-24": 164,
@@ -366,7 +366,7 @@
       "2023-10-11": 94,
       "2023-10-10": 189,
       "2023-10-09": 234,
-      "2023-10-08": 64
+      "2023-10-08": 81
     }
   },
   {
@@ -379,7 +379,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.66%",
+    "uptimeYear": "23.67%",
     "time": 734,
     "timeDay": 641,
     "timeWeek": 663,
@@ -672,19 +672,19 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "96.08%",
-    "uptimeDay": "96.36%",
+    "status": "down",
+    "uptime": "96.15%",
+    "uptimeDay": "96.32%",
     "uptimeWeek": "95.05%",
     "uptimeMonth": "94.51%",
-    "uptimeYear": "96.08%",
+    "uptimeYear": "96.15%",
     "time": 2776,
     "timeDay": 2497,
     "timeWeek": 2349,
     "timeMonth": 2419,
     "timeYear": 2776,
     "dailyMinutesDown": {
-      "2023-10-27": 53,
+      "2023-10-27": 54,
       "2023-10-26": 40,
       "2023-10-25": 80,
       "2023-10-24": 19,
@@ -721,7 +721,7 @@
       "2023-09-22": 276,
       "2023-09-21": 1258,
       "2023-09-20": 73,
-      "2023-09-19": 261
+      "2023-09-19": 175
     }
   },
   {
@@ -741,7 +741,7 @@
     "timeMonth": 669,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2023-10-27": 2150,
+      "2023-10-27": 2186,
       "2023-10-26": 2880,
       "2023-10-25": 2880,
       "2023-10-24": 2880,
