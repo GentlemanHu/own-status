@@ -296,19 +296,19 @@
     "url": "https://blog.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.crushing.xyz.ico",
     "slug": "blog-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 62,
-    "timeWeek": 101,
-    "timeMonth": 100,
-    "timeYear": 115,
+    "time": 141,
+    "timeDay": 1726,
+    "timeWeek": 651,
+    "timeMonth": 251,
+    "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-11-06": 18
+      "2023-11-06": 25
     }
   },
   {
@@ -738,7 +738,7 @@
     "timeMonth": 673,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2023-11-06": 1850,
+      "2023-11-06": 1866,
       "2023-11-05": 2880,
       "2023-11-04": 2880,
       "2023-11-03": 2880,
@@ -864,7 +864,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.30%",
+    "uptimeMonth": "54.34%",
     "uptimeYear": "0.00%",
     "time": 741,
     "timeDay": 769,
