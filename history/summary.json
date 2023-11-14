@@ -345,7 +345,7 @@
     "time": 3669,
     "timeDay": 1760,
     "timeWeek": 3678,
-    "timeMonth": 5393,
+    "timeMonth": 5406,
     "timeYear": 3819,
     "dailyMinutesDown": {
       "2023-11-06": 16,
@@ -382,7 +382,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "28.43%",
+    "uptimeYear": "28.46%",
     "time": 730,
     "timeDay": 665,
     "timeWeek": 701,
@@ -659,18 +659,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "93.15%",
-    "uptimeMonth": "94.62%",
-    "uptimeYear": "97.83%",
+    "uptime": "97.81%",
+    "uptimeDay": "91.17%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "94.70%",
+    "uptimeYear": "97.81%",
     "time": 2872,
-    "timeDay": 3645,
+    "timeDay": 3930,
     "timeWeek": 3676,
-    "timeMonth": 2794,
+    "timeMonth": 2803,
     "timeYear": 2872,
     "dailyMinutesDown": {
-      "2023-11-14": 109,
+      "2023-11-14": 100,
       "2023-11-13": 111,
       "2023-11-12": 100,
       "2023-11-11": 23,
@@ -710,7 +710,7 @@
       "2023-10-07": 18,
       "2023-10-06": 70,
       "2023-10-05": 17,
-      "2023-10-04": 100
+      "2023-10-04": 147
     }
   },
   {
@@ -730,7 +730,7 @@
     "timeMonth": 653,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-11-14": 410,
+      "2023-11-14": 774,
       "2023-11-13": 2880,
       "2023-11-12": 2880,
       "2023-11-11": 2880,
@@ -975,9 +975,9 @@
     "url": "https://home.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/home.crushing.xyz.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -987,6 +987,7 @@
     "timeMonth": 649,
     "timeYear": 733,
     "dailyMinutesDown": {
+      "2023-11-14": 0,
       "2023-10-30": 20
     }
   }
