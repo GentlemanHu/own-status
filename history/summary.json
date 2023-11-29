@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.99%",
+    "uptimeYear": "33.00%",
     "time": 439,
     "timeDay": 992,
     "timeWeek": 984,
-    "timeMonth": 1140,
+    "timeMonth": 1141,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2023-09-06": 15,
@@ -278,7 +278,7 @@
     "time": 999,
     "timeDay": 729,
     "timeWeek": 732,
-    "timeMonth": 818,
+    "timeMonth": 819,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2023-09-25": 23
@@ -338,7 +338,7 @@
     "time": 3700,
     "timeDay": 4861,
     "timeWeek": 4137,
-    "timeMonth": 4739,
+    "timeMonth": 4747,
     "timeYear": 3855,
     "dailyMinutesDown": {
       "2023-11-24": 19,
@@ -375,7 +375,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "32.68%",
+    "uptimeYear": "32.69%",
     "time": 729,
     "timeDay": 879,
     "timeWeek": 754,
@@ -636,12 +636,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "89.13%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "89.10%",
     "uptimeWeek": "92.78%",
     "uptimeMonth": "94.41%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.13%",
     "time": 2945,
     "timeDay": 7497,
     "timeWeek": 3039,
@@ -687,7 +687,7 @@
       "2023-10-22": 47,
       "2023-10-21": 106,
       "2023-10-20": 130,
-      "2023-10-19": 50
+      "2023-10-19": 34
     }
   },
   {
@@ -707,7 +707,7 @@
     "timeMonth": 694,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-11-29": 1988,
+      "2023-11-29": 2080,
       "2023-11-28": 2880,
       "2023-11-27": 2880,
       "2023-11-26": 2880,
@@ -953,7 +953,7 @@
     "time": 1588,
     "timeDay": 1203,
     "timeWeek": 1170,
-    "timeMonth": 1431,
+    "timeMonth": 1411,
     "timeYear": 1588,
     "dailyMinutesDown": {
       "2023-11-19": 18,
