@@ -691,7 +691,7 @@
     "timeMonth": 693,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-12-07": 2028,
+      "2023-12-07": 2056,
       "2023-12-06": 2880,
       "2023-12-05": 2880,
       "2023-12-04": 2880,
@@ -826,19 +826,19 @@
     "url": "https://gpt.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gpt.crushing.xyz.ico",
     "slug": "chat-gpt-next",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 143,
-    "timeDay": 145,
-    "timeWeek": 74,
-    "timeMonth": 115,
+    "timeDay": 103,
+    "timeWeek": 72,
+    "timeMonth": 113,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 13
     }
   },
   {
