@@ -368,7 +368,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.88%",
+    "uptimeYear": "34.89%",
     "time": 727,
     "timeDay": 711,
     "timeWeek": 700,
@@ -621,12 +621,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "92.47%",
+    "status": "down",
+    "uptime": "98.16%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "92.46%",
     "uptimeMonth": "93.62%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.16%",
     "time": 2846,
     "timeDay": 6377,
     "timeWeek": 2066,
@@ -671,7 +671,7 @@
       "2023-11-01": 98,
       "2023-10-31": 23,
       "2023-10-29": 40,
-      "2023-10-28": 53
+      "2023-10-28": 35
     }
   },
   {
@@ -691,7 +691,7 @@
     "timeMonth": 693,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-12-07": 2056,
+      "2023-12-07": 2092,
       "2023-12-06": 2880,
       "2023-12-05": 2880,
       "2023-12-04": 2880,
@@ -827,19 +827,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gpt.crushing.xyz.ico",
     "slug": "chat-gpt-next",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 103,
     "timeWeek": 72,
     "timeMonth": 113,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2023-12-07": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DeepL",
