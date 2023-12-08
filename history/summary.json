@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.29%",
+    "uptimeYear": "35.30%",
     "time": 451,
     "timeDay": 1019,
     "timeWeek": 957,
@@ -619,16 +619,16 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "91.56%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "98.11%",
+    "status": "down",
+    "uptime": "98.12%",
+    "uptimeDay": "92.32%",
+    "uptimeWeek": "91.72%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "98.12%",
     "time": 2861,
-    "timeDay": 7094,
+    "timeDay": 8070,
     "timeWeek": 2365,
-    "timeMonth": 2933,
+    "timeMonth": 2941,
     "timeYear": 2861,
     "dailyMinutesDown": {
       "2023-12-08": 91,
@@ -670,7 +670,7 @@
       "2023-11-01": 98,
       "2023-10-31": 23,
       "2023-10-29": 40,
-      "2023-10-28": 35
+      "2023-10-28": 16
     }
   },
   {
@@ -690,7 +690,7 @@
     "timeMonth": 695,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2023-12-08": 282,
+      "2023-12-08": 320,
       "2023-12-07": 2880,
       "2023-12-06": 2880,
       "2023-12-05": 2880,
