@@ -309,18 +309,19 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.59%",
-    "time": 3747,
+    "time": 3733,
     "timeDay": 2032,
     "timeWeek": 1907,
     "timeMonth": 5004,
     "timeYear": 3904,
     "dailyMinutesDown": {
+      "2023-12-19": 3,
       "2023-12-18": 23,
       "2023-12-04": 19,
       "2023-11-24": 19,
@@ -344,7 +345,7 @@
       "2023-10-14": 44,
       "2023-10-13": 35,
       "2023-10-12": 140,
-      "2023-10-11": 54
+      "2023-10-11": 38
     }
   },
   {
@@ -357,7 +358,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.05%",
+    "uptimeYear": "38.06%",
     "time": 724,
     "timeDay": 734,
     "timeWeek": 679,
@@ -598,19 +599,19 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "90.76%",
-    "uptimeWeek": "93.07%",
+    "status": "down",
+    "uptime": "98.10%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "93.06%",
     "uptimeMonth": "93.12%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.10%",
     "time": 2815,
-    "timeDay": 4321,
+    "timeDay": 4805,
     "timeWeek": 2155,
     "timeMonth": 2474,
     "timeYear": 2815,
     "dailyMinutesDown": {
-      "2023-12-19": 133,
+      "2023-12-19": 134,
       "2023-12-18": 98,
       "2023-12-17": 70,
       "2023-12-16": 95,
@@ -649,8 +650,7 @@
       "2023-11-12": 100,
       "2023-11-11": 23,
       "2023-11-10": 96,
-      "2023-11-09": 68,
-      "2023-11-08": 133
+      "2023-11-09": 68
     }
   },
   {
@@ -670,7 +670,7 @@
     "timeMonth": 694,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-12-19": 780,
+      "2023-12-19": 868,
       "2023-12-18": 2880,
       "2023-12-17": 2880,
       "2023-12-16": 2880,
