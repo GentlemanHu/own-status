@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.63%",
+    "uptimeYear": "40.64%",
     "time": 477,
     "timeDay": 834,
     "timeWeek": 944,
@@ -303,9 +303,9 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.59%",
     "time": 3746,
     "timeDay": 1716,
@@ -313,7 +313,6 @@
     "timeMonth": 4584,
     "timeYear": 3912,
     "dailyMinutesDown": {
-      "2023-12-27": 7,
       "2023-12-18": 23,
       "2023-12-04": 19,
       "2023-11-24": 19,
@@ -337,7 +336,7 @@
       "2023-10-14": 44,
       "2023-10-13": 35,
       "2023-10-12": 140,
-      "2023-10-11": 38
+      "2023-10-11": 54
     }
   },
   {
@@ -350,7 +349,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.32%",
+    "uptimeYear": "40.33%",
     "time": 723,
     "timeDay": 610,
     "timeWeek": 740,
@@ -583,9 +582,9 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
-    "uptimeDay": "89.41%",
+    "uptimeDay": "89.39%",
     "uptimeWeek": "92.32%",
     "uptimeMonth": "92.88%",
     "uptimeYear": "98.17%",
@@ -631,8 +630,7 @@
       "2023-11-24": 87,
       "2023-11-23": 131,
       "2023-11-21": 109,
-      "2023-11-20": 153,
-      "2023-11-19": 17
+      "2023-11-20": 153
     }
   },
   {
@@ -652,7 +650,7 @@
     "timeMonth": 689,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2023-12-27": 1660,
+      "2023-12-27": 1712,
       "2023-12-26": 2880,
       "2023-12-25": 2880,
       "2023-12-24": 2880,
@@ -826,11 +824,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deepl.crushing.xyz.ico",
     "slug": "deep-l",
     "status": "down",
-    "uptime": "1.88%",
+    "uptime": "1.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "1.88%",
+    "uptimeYear": "1.89%",
     "time": 727,
     "timeDay": 605,
     "timeWeek": 697,
