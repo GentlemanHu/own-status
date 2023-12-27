@@ -301,18 +301,19 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.59%",
-    "time": 3745,
+    "time": 3746,
     "timeDay": 1806,
     "timeWeek": 4622,
     "timeMonth": 4661,
     "timeYear": 3913,
     "dailyMinutesDown": {
+      "2023-12-27": 0,
       "2023-12-18": 23,
       "2023-12-04": 19,
       "2023-11-24": 19,
@@ -336,7 +337,7 @@
       "2023-10-14": 44,
       "2023-10-13": 35,
       "2023-10-12": 140,
-      "2023-10-11": 54
+      "2023-10-11": 38
     }
   },
   {
@@ -584,17 +585,17 @@
     "slug": "ai-flowise",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "88.44%",
-    "uptimeWeek": "92.18%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "89.41%",
+    "uptimeWeek": "92.32%",
+    "uptimeMonth": "92.88%",
     "uptimeYear": "98.17%",
     "time": 2716,
-    "timeDay": 473,
+    "timeDay": 482,
     "timeWeek": 1214,
-    "timeMonth": 2143,
+    "timeMonth": 2149,
     "timeYear": 2716,
     "dailyMinutesDown": {
-      "2023-12-27": 121,
+      "2023-12-27": 107,
       "2023-12-26": 97,
       "2023-12-25": 148,
       "2023-12-24": 51,
@@ -630,7 +631,8 @@
       "2023-11-24": 87,
       "2023-11-23": 131,
       "2023-11-21": 109,
-      "2023-11-20": 153
+      "2023-11-20": 153,
+      "2023-11-19": 17
     }
   },
   {
@@ -650,7 +652,7 @@
     "timeMonth": 689,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2023-12-27": 1610,
+      "2023-12-27": 1646,
       "2023-12-26": 2880,
       "2023-12-25": 2880,
       "2023-12-24": 2880,
@@ -824,11 +826,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deepl.crushing.xyz.ico",
     "slug": "deep-l",
     "status": "down",
-    "uptime": "1.87%",
+    "uptime": "1.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "1.87%",
+    "uptimeYear": "1.88%",
     "time": 727,
     "timeDay": 605,
     "timeWeek": 697,
