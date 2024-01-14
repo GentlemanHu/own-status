@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.crushing.xyz.ico",
     "slug": "book-library",
     "status": "up",
-    "uptime": "58.52%",
+    "uptime": "58.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.40%",
+    "uptimeYear": "45.42%",
     "time": 542,
     "timeDay": 0,
     "timeWeek": 872,
@@ -215,8 +215,7 @@
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
-      "2023-01-15": 1440,
-      "2023-01-14": 1440
+      "2023-01-15": 1440
     }
   },
   {
@@ -332,7 +331,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.09%",
+    "uptimeYear": "45.11%",
     "time": 717,
     "timeDay": 0,
     "timeWeek": 639,
@@ -539,8 +538,7 @@
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
-      "2023-01-15": 1440,
-      "2023-01-14": 1440
+      "2023-01-15": 1440
     }
   },
   {
@@ -550,9 +548,9 @@
     "slug": "ai-flowise",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "89.72%",
-    "uptimeMonth": "90.86%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "89.98%",
+    "uptimeMonth": "90.89%",
     "uptimeYear": "98.31%",
     "time": 2529,
     "timeDay": 1376,
@@ -560,7 +558,7 @@
     "timeMonth": 1635,
     "timeYear": 2529,
     "dailyMinutesDown": {
-      "2024-01-13": 100,
+      "2024-01-13": 88,
       "2024-01-12": 137,
       "2024-01-11": 164,
       "2024-01-10": 189,
@@ -590,7 +588,8 @@
       "2023-12-17": 70,
       "2023-12-16": 95,
       "2023-12-15": 61,
-      "2023-12-14": 61
+      "2023-12-14": 61,
+      "2023-12-13": 27
     }
   },
   {
@@ -610,7 +609,8 @@
     "timeMonth": 673,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-01-13": 2808,
+      "2024-01-14": 142,
+      "2024-01-13": 2880,
       "2024-01-12": 2880,
       "2024-01-11": 2880,
       "2024-01-10": 2880,
@@ -801,11 +801,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deepl.crushing.xyz.ico",
     "slug": "deep-l",
     "status": "down",
-    "uptime": "12.25%",
+    "uptime": "12.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.25%",
+    "uptimeYear": "12.29%",
     "time": 720,
     "timeDay": 0,
     "timeWeek": 642,
