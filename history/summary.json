@@ -242,9 +242,9 @@
     "slug": "blog-xyz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 143,
     "timeDay": 453,
@@ -252,7 +252,6 @@
     "timeMonth": 129,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-01-17": 9,
       "2024-01-16": 18,
       "2023-11-06": 25
     }
@@ -330,7 +329,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.17%",
+    "uptimeYear": "46.18%",
     "time": 715,
     "timeDay": 610,
     "timeWeek": 617,
@@ -542,19 +541,19 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "80.74%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "80.71%",
     "uptimeWeek": "88.49%",
-    "uptimeMonth": "90.96%",
-    "uptimeYear": "98.37%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "98.39%",
     "time": 2475,
     "timeDay": 2118,
     "timeWeek": 1502,
-    "timeMonth": 1581,
+    "timeMonth": 1584,
     "timeYear": 2475,
     "dailyMinutesDown": {
-      "2024-01-17": 278,
+      "2024-01-17": 279,
       "2024-01-16": 227,
       "2024-01-15": 215,
       "2024-01-14": 54,
@@ -581,7 +580,7 @@
       "2023-12-24": 51,
       "2023-12-23": 35,
       "2023-12-22": 92,
-      "2023-12-21": 75
+      "2023-12-21": 30
     }
   },
   {
@@ -601,7 +600,7 @@
     "timeMonth": 663,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2024-01-17": 2630,
+      "2024-01-17": 2696,
       "2024-01-16": 2880,
       "2024-01-15": 2880,
       "2024-01-14": 2880,
@@ -779,18 +778,16 @@
     "slug": "chat-gpt-next",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 856,
     "timeWeek": 2315,
     "timeMonth": 723,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DeepL",
@@ -798,11 +795,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deepl.crushing.xyz.ico",
     "slug": "deep-l",
     "status": "down",
-    "uptime": "14.30%",
+    "uptime": "14.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.30%",
+    "uptimeYear": "14.31%",
     "time": 718,
     "timeDay": 602,
     "timeWeek": 618,
