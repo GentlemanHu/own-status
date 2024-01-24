@@ -241,7 +241,7 @@
     "uptimeYear": "99.99%",
     "time": 141,
     "timeDay": 87,
-    "timeWeek": 211,
+    "timeWeek": 88,
     "timeMonth": 131,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -275,10 +275,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.59%",
     "time": 3825,
     "timeDay": 6236,
@@ -286,7 +286,7 @@
     "timeMonth": 4748,
     "timeYear": 3978,
     "dailyMinutesDown": {
-      "2024-01-24": 39,
+      "2024-01-24": 31,
       "2023-12-18": 23,
       "2023-12-04": 19,
       "2023-11-24": 19,
@@ -310,7 +310,7 @@
       "2023-10-14": 44,
       "2023-10-13": 35,
       "2023-10-12": 140,
-      "2023-10-11": 16
+      "2023-10-11": 38
     }
   },
   {
@@ -323,7 +323,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.08%",
+    "uptimeYear": "48.09%",
     "time": 714,
     "timeDay": 582,
     "timeWeek": 671,
@@ -528,12 +528,12 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "87.49%",
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "87.47%",
     "uptimeWeek": "87.22%",
-    "uptimeMonth": "90.03%",
-    "uptimeYear": "98.27%",
+    "uptimeMonth": "90.18%",
+    "uptimeYear": "98.30%",
     "time": 2379,
     "timeDay": 2340,
     "timeWeek": 1127,
@@ -565,7 +565,7 @@
       "2024-01-02": 132,
       "2024-01-01": 120,
       "2023-12-31": 108,
-      "2023-12-30": 129
+      "2023-12-30": 63
     }
   },
   {
@@ -585,7 +585,7 @@
     "timeMonth": 652,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2024-01-24": 2594,
+      "2024-01-24": 2612,
       "2024-01-23": 2880,
       "2024-01-22": 2880,
       "2024-01-21": 2880,
@@ -776,7 +776,7 @@
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 109,
-    "timeWeek": 352,
+    "timeWeek": 127,
     "timeMonth": 707,
     "timeYear": 232,
     "dailyMinutesDown": {}
@@ -787,11 +787,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deepl.crushing.xyz.ico",
     "slug": "deep-l",
     "status": "down",
-    "uptime": "17.71%",
+    "uptime": "17.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.71%",
+    "uptimeYear": "17.72%",
     "time": 716,
     "timeDay": 580,
     "timeWeek": 670,
