@@ -521,8 +521,8 @@
     "slug": "ai-flowise",
     "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "94.41%",
-    "uptimeWeek": "88.52%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "88.51%",
     "uptimeMonth": "90.78%",
     "uptimeYear": "98.44%",
     "time": 2371,
@@ -531,7 +531,7 @@
     "timeMonth": 1434,
     "timeYear": 2371,
     "dailyMinutesDown": {
-      "2024-01-29": 0,
+      "2024-01-29": 2,
       "2024-01-28": 80,
       "2024-01-27": 135,
       "2024-01-26": 82,
@@ -576,7 +576,7 @@
     "timeMonth": 670,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-01-29": 120,
+      "2024-01-29": 124,
       "2024-01-28": 2880,
       "2024-01-27": 2880,
       "2024-01-26": 2880,
