@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.52%",
+    "uptimeYear": "52.54%",
     "time": 573,
     "timeDay": 0,
     "timeWeek": 987,
@@ -189,8 +189,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -309,7 +308,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.21%",
+    "uptimeYear": "52.23%",
     "time": 714,
     "timeDay": 0,
     "timeWeek": 697,
@@ -490,8 +489,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -499,19 +497,20 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "89.41%",
-    "uptimeMonth": "90.59%",
+    "uptimeDay": "87.14%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "90.62%",
     "uptimeYear": "98.50%",
     "time": 2340,
     "timeDay": 1980,
     "timeWeek": 2154,
-    "timeMonth": 1621,
+    "timeMonth": 1624,
     "timeYear": 2340,
     "dailyMinutesDown": {
-      "2024-02-08": 212,
+      "2024-02-09": 0,
+      "2024-02-08": 201,
       "2024-02-07": 125,
       "2024-02-06": 174,
       "2024-02-05": 183,
@@ -556,7 +555,8 @@
     "timeMonth": 687,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-02-08": 2804,
+      "2024-02-09": 108,
+      "2024-02-08": 2880,
       "2024-02-07": 2880,
       "2024-02-06": 2880,
       "2024-02-05": 2880,
@@ -773,11 +773,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deepl.crushing.xyz.ico",
     "slug": "deep-l",
     "status": "down",
-    "uptime": "24.22%",
+    "uptime": "24.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.22%",
+    "uptimeYear": "24.25%",
     "time": 715,
     "timeDay": 0,
     "timeWeek": 687,
