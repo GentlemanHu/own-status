@@ -238,18 +238,19 @@
     "url": "https://www.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.crushing.xyz.ico",
     "slug": "wwww-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 4005,
+    "time": 4007,
     "timeDay": 2242,
     "timeWeek": 2327,
     "timeMonth": 2960,
     "timeYear": 3870,
     "dailyMinutesDown": {
+      "2024-02-29": 0,
       "2024-01-25": 68,
       "2024-01-24": 31,
       "2023-12-18": 23,
@@ -274,8 +275,7 @@
       "2023-10-15": 231,
       "2023-10-14": 44,
       "2023-10-13": 35,
-      "2023-10-12": 140,
-      "2023-10-11": 16
+      "2023-10-12": 140
     }
   },
   {
@@ -458,18 +458,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "93.27%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.64%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "90.58%",
+    "uptimeYear": "98.64%",
     "time": 2206,
     "timeDay": 482,
     "timeWeek": 1145,
     "timeMonth": 1547,
     "timeYear": 2206,
     "dailyMinutesDown": {
-      "2024-02-29": 97,
+      "2024-02-29": 84,
       "2024-02-28": 156,
       "2024-02-27": 64,
       "2024-02-26": 174,
@@ -499,7 +499,7 @@
       "2024-02-02": 102,
       "2024-02-01": 165,
       "2024-01-31": 124,
-      "2024-01-30": 68
+      "2024-01-30": 86
     }
   },
   {
@@ -519,7 +519,7 @@
     "timeMonth": 732,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-02-29": 1740,
+      "2024-02-29": 1760,
       "2024-02-28": 2880,
       "2024-02-27": 2880,
       "2024-02-26": 2880,
