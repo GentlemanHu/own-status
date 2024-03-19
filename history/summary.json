@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.crushing.xyz.ico",
     "slug": "book-library",
     "status": "up",
-    "uptime": "60.83%",
+    "uptime": "60.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.01%",
+    "uptimeYear": "63.02%",
     "time": 570,
     "timeDay": 1043,
     "timeWeek": 908,
@@ -269,7 +269,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.71%",
+    "uptimeYear": "62.72%",
     "time": 710,
     "timeDay": 741,
     "timeWeek": 700,
@@ -419,9 +419,9 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "84.36%",
+    "uptimeDay": "84.33%",
     "uptimeWeek": "91.34%",
     "uptimeMonth": "90.61%",
     "uptimeYear": "98.73%",
@@ -460,8 +460,7 @@
       "2024-02-22": 182,
       "2024-02-21": 128,
       "2024-02-20": 219,
-      "2024-02-19": 142,
-      "2024-02-18": 16
+      "2024-02-19": 142
     }
   },
   {
@@ -481,7 +480,7 @@
     "timeMonth": 675,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-03-19": 790,
+      "2024-03-19": 878,
       "2024-03-18": 2880,
       "2024-03-17": 2880,
       "2024-03-16": 2880,
