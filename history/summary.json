@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.65%",
+    "uptimeYear": "64.66%",
     "time": 576,
     "timeDay": 1018,
     "timeWeek": 936,
@@ -215,9 +215,9 @@
     "slug": "wwww-xyz",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.58%",
     "time": 4023,
     "timeDay": 2609,
@@ -225,7 +225,7 @@
     "timeMonth": 3312,
     "timeYear": 3870,
     "dailyMinutesDown": {
-      "2024-03-25": 37,
+      "2024-03-25": 30,
       "2024-01-25": 68,
       "2024-01-24": 31,
       "2023-12-18": 23,
@@ -250,7 +250,7 @@
       "2023-10-15": 231,
       "2023-10-14": 44,
       "2023-10-13": 35,
-      "2023-10-12": 105
+      "2023-10-12": 140
     }
   },
   {
@@ -263,7 +263,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.34%",
+    "uptimeYear": "64.35%",
     "time": 709,
     "timeDay": 745,
     "timeWeek": 688,
@@ -407,14 +407,14 @@
     "url": "https://aiflow.crushing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aiflow.crushing.xyz.ico",
     "slug": "ai-flowise",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "91.71%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "91.68%",
     "uptimeWeek": "88.99%",
     "uptimeMonth": "90.53%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "98.75%",
     "time": 2093,
-    "timeDay": 503,
+    "timeDay": 507,
     "timeWeek": 1269,
     "timeMonth": 1348,
     "timeYear": 2093,
@@ -448,8 +448,7 @@
       "2024-02-28": 156,
       "2024-02-27": 64,
       "2024-02-26": 174,
-      "2024-02-25": 127,
-      "2024-02-24": 24
+      "2024-02-25": 127
     }
   },
   {
@@ -469,7 +468,7 @@
     "timeMonth": 671,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-03-25": 710,
+      "2024-03-25": 782,
       "2024-03-24": 2880,
       "2024-03-23": 2880,
       "2024-03-22": 2880,
